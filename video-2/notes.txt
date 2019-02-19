@@ -1,0 +1,22 @@
+Twitter Sentiment Analysis - Learn Pyrthon for Data Science #2
+https://youtu.be/o_OZdbCzHUA
+
+
+http://cs224d.stanford.edu/syllabus.html
+- Course Syllabus
+
+https://textblob.readthedocs.io/en/dev/
+- TextBlob Simplified Text Processing
+
+Tokenization - making smal toekns from big text
+
+# pip install tweepy
+# pip install textblob
+
+# python -m textblob.download_corpora
+
+Break It Down 
+1. Sentiment Analysis - Understanding and Extracting Feelings from Data
+2. An API lets you access an apps functionality from your code
+3. Textblob is awesome for NLP tasks
+
