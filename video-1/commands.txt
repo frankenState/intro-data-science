@@ -1,0 +1,16 @@
+Installing PIP On Windows
+# python -m pip install -U pip
+
+Installing Scikit Dependency 
+# pip install -U scikit-learn
+
+Notes
+1. Data Scientist solve problems with data. No PhD Required.
+2. Python emphasizes readability
+3. Decision Trees model all possible outcomes 
+
+https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html
+Classifier comparison
+A comparison of a several classifiers in scikit-learn on synthetic datasets. The point of this example is to illustrate the nature of decision boundaries of different classifiers. This should be taken with a grain of salt, as the intuition conveyed by these examples does not necessarily carry over to real datasets.
+
+Particularly in high-dimensional spaces, data can more easily be separated linearly and the simplicity of classifiers such as naive Bayes and linear SVMs might lead to better generalization than is achieved by other classifiers.
